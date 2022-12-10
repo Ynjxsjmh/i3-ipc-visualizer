@@ -15,4 +15,4 @@ options:
                         Filename of the output dot file and pdf file.
 ```
 
-https://user-images.githubusercontent.com/40143136/206863849-9ce5ce0c-2240-424c-ac96-3bc5fb81b1f2.png
+![](https://user-images.githubusercontent.com/40143136/206863849-9ce5ce0c-2240-424c-ac96-3bc5fb81b1f2.png)
